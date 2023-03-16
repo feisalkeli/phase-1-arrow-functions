@@ -1,6 +1,6 @@
 // function expression that divides two numbers.
 function divide(a, b) {
-  return a, b;
+  return a / b;
 }
 
 // square arrow function that multiplies a number by itself
